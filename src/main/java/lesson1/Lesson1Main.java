@@ -15,6 +15,7 @@ public class Lesson1Main {
 
         System.out.println("booleanVar = " + booleanVar);
         System.out.println("booleanVar2 = " + booleanVar2);
+        System.out.println("booleanVar2 = " + booleanVar2);
 
     }
 }
